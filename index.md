@@ -11,4 +11,4 @@
 
 微信号：wxid_msqd87m9z4h922
 
-![沈娟](./img/shenjuan.jpeg)
+<img src="./img/shenjuan.jpeg" width="300" alt="微信号：wxid_msqd87m9z4h922">
