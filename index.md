@@ -5,7 +5,7 @@
 ## 网站索引
 [百人百衣主页](https://m.brby.store)
 
-[百人百衣新品][https://new.brby.store]
+[百人百衣新品](https://new.brby.store)
 
 ### 联系方式
 
